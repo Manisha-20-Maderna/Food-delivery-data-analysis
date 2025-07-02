@@ -56,7 +56,7 @@ This bar chart shows the relationship between vehicle condition (rated from 0 to
 This histogram displays the distribution of delivery person ratings. Most ratings fall between 4.0 and 5.0, indicating generally good customer satisfaction.
 
 
-<img src="Dashboard/Delivery Ratings Distribution.png" alt="Delivery Ratings Distribution" width="800"/>
+<img src="Dashboard/Delivery Ratings Histogram.png" alt="Delivery Ratings Distribution" width="800"/>
 
 ---
 
