@@ -49,8 +49,7 @@ source sql/important_details.sql;
 ### 1. 🚗 Average Delivery Time by Vehicle Condition
 This bar chart shows the relationship between vehicle condition (rated from 0 to 3) and average delivery time. Poorer vehicle conditions (0) lead to the highest delivery times.
 
-<link src="Dashboard\Avg Delivery Time by Vehicle Condition", alt="Avg Delivery Time by Vehicle Condition",size="800">
-
+<img src="Dashboard/Avg Delivery Time by Vehicle Condition.png" alt="Avg Delivery Time by Vehicle Condition" width="800"/>
 ---
 
 ### 2. ⭐ Delivery Ratings Distribution
