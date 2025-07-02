@@ -73,7 +73,7 @@ This pie chart shows the percentage of deliveries made by different age groups. 
 This bar chart shows the number of orders placed during each hour of the day. Demand spikes between **4 PM and 10 PM**, likely due to evening meal times.
 
 
-<img src="Dashboard/ Orders by Hour.png" alt=" Orders by Hour" width="800"/>
+<img src="Dashboard/Orders by Hour.png" alt=" Orders by Hour" width="800"/>
 
 ---
 
@@ -81,14 +81,14 @@ This bar chart shows the number of orders placed during each hour of the day. De
 This count plot illustrates how orders are spread across the week. **Wednesday and Friday** have the highest order counts.
 
 
-<img src="Dashboard/ Orders by Day of Week.png" alt=" Orders by Day of Week" width="800"/>
+<img src="Dashboard/Orders by Day of Week.png" alt=" Orders by Day of Week" width="800"/>
 
 ---
 ### 6. 📈 Line Chart: Orders Per Day
 This chart shows how daily order volume changes over time, revealing spikes on specific days.
 
 
-<img src="Dashboard/ Orders Per Day.png" alt=" Orders Per Day" width="800"/>
+<img src="Dashboard/Orders Per Day.png" alt=" Orders Per Day" width="800"/>
 
 ---
 
