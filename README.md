@@ -79,6 +79,13 @@ This count plot illustrates how orders are spread across the week. **Wednesday a
 
 ![Orders by Day of Week](images/orders_by_day.png)
 
+### 6. 📈 Line Chart: Orders Per Day
+This chart shows how daily order volume changes over time, revealing spikes on specific days.
+
+![Orders Per Day](images/orders_per_day.png)
+
+---
+
 
 ## 🧰 Technologies Used
 
