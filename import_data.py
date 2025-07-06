@@ -4,7 +4,7 @@ import os
 
 # MySQL connection settings
 user = 'root'                  
-password = 'M28#22'              
+password = '#####'              
 host = 'localhost'
 database = 'food_delivery'      
 
